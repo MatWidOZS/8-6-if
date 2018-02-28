@@ -10,6 +10,6 @@ if (value > 0) {
 	console.log('Wynik dodatni');
 } else if (value < 0) {
 	console.log('Wynik ujemny');
-} else if (value == 0) {
-	console.log('Wynik to ' + value);
+} else {
+	console.log('Wynik to 0');
 }
